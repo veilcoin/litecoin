@@ -1,30 +1,29 @@
-Litecoin integration/staging tree
+Veilcoin integration/staging tree
 ================================
 
 http://www.litecoin.org
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2014 Veilcoin Developers
 
-What is Litecoin?
+What is Veilcoin?
 ----------------
 
-Litecoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
+Veilcoin is a lite version of Bitcoin using strinct memory hard hashing function as a proof-of-work algorithm.
  - 2.5 minute block targets
  - subsidy halves in 840k blocks (~4 years)
  - ~84 million total coins
-
-The rest is the same as Bitcoin.
  - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - Every block to retarget difficulty with Kimotos Gravity Well algorithm
 
 For more information, as well as an immediately useable, binary version of
-the Litecoin client sofware, see http://www.litecoin.org.
+the Veilcoin client sofware, see http://www.veilcoin.org.
 
 License
 -------
 
-Litecoin is released under the terms of the MIT license. See `COPYING` for more
+Veilcoin is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
 
 Development process
